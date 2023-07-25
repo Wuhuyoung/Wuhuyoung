@@ -3,7 +3,7 @@
   <br/>
 - 👋 Hi, I’m Wuhuyoung
     <br/>
-- 👀 I’m interested in do something to change the world.
+- 👀 I’m interested in doing something to change the world.
     <br/>
 - 👻 I want to do some cool projects.
     <br/>
